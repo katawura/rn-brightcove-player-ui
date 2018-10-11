@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.brightcove.player.mediacontroller.BrightcoveControlBar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:bmc="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="Overdraw"
+
+    android:id="@+id/brightcove_control_bar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:orientation="vertical"
+    style="@style/BrightcoveControlBar.Pip">
+
+    <!-- top -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="top">
+
+        <Button
+            style="@style/BorderlessButton"
+            android:id="@id/picture_in_picture"
+            android:padding="4dp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:visibility="visible"
+            android:text="@string/brightcove_picture_in_picture_off"/>
+
+        <View
+            tools:ignore="InconsistentLayout"
+            android:id="@id/two_line_spacer"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:visibility="visible"/>
+
+        <Button
+            android:id="@id/close"
+            style="@style/BorderlessButton"
+            android:text="@string/brightcove_controls_close"
+            android:padding="8dp"
+            android:textColor="@color/bmc_time_text"
+            android:layout_gravity="right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="visible"/>
+    </LinearLayout>
+
+</com.brightcove.player.mediacontroller.BrightcoveControlBar>

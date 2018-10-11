@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "github:joipolloi/rn-brightcove-player-ui#v0.1.7",
+      "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO"
+    ]
+  ],
+  "_from": "github:joipolloi/rn-brightcove-player-ui#v0.1.7",
+  "_id": "rn-brightcove-player-ui@github:joipolloi/rn-brightcove-player-ui#0041e5ba58ffe967636ef9a7e1b9b5e2e070284e",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/rn-brightcove-player-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:joipolloi/rn-brightcove-player-ui#v0.1.7",
+    "rawSpec": "github:joipolloi/rn-brightcove-player-ui#v0.1.7",
+    "saveSpec": "github:joipolloi/rn-brightcove-player-ui#v0.1.7",
+    "fetchSpec": null,
+    "gitCommittish": "v0.1.7"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:joipolloi/rn-brightcove-player-ui#0041e5ba58ffe967636ef9a7e1b9b5e2e070284e",
+  "_spec": "github:joipolloi/rn-brightcove-player-ui#v0.1.7",
+  "_where": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO",
+  "author": {
+    "name": "Ryota Mannari",
+    "email": "info@manse.jp",
+    "url": "https://github.com/manse"
+  },
+  "bugs": {
+    "url": "https://github.com/joipolloi/rn-brightcove-player-ui/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react-native": "^0.56.0"
+  },
+  "description": "A React Native implementation of Brightcove Player SDK with custom UI overlay.",
+  "homepage": "https://github.com/joipolloi/rn-brightcove-player-ui",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "brightcove",
+    "react-component"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "rn-brightcove-player-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joipolloi/rn-brightcove-player-ui.git"
+  },
+  "version": "0.1.7"
+}

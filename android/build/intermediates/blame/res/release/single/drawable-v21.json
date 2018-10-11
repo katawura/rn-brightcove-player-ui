@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9d4ea68b358367d373d297b2d9c768eb/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9d4ea68b358367d373d297b2d9c768eb/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9d4ea68b358367d373d297b2d9c768eb/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/131d57287f1d12ac439eeacd63ab4e8f/res/drawable-v21/notification_action_background.xml"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_play.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_controls_play.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_play_arrow_24dp.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/android-sdk-6.3.1.aar/b21dbf68e3179eda0056096538f6ec91/res/drawable-anydpi-v21/ic_play_arrow_24dp.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_previous.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_controls_previous.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_pause_24dp.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/android-sdk-6.3.1.aar/b21dbf68e3179eda0056096538f6ec91/res/drawable-anydpi-v21/ic_pause_24dp.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_fullscreen_enter.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_controls_fullscreen_enter.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_shuffle.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_controls_shuffle.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_rewind.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_controls_rewind.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_next.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_controls_next.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_fullscreen_exit.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_controls_fullscreen_exit.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_pause.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_controls_pause.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_edit_mode_logo.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_repeat_off.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_controls_repeat_off.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_repeat_all.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_controls_repeat_all.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_fastforward.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_controls_fastforward.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/exo_controls_repeat_one.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/drawable-anydpi-v21/exo_controls_repeat_one.xml"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_film.xml",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/android-sdk-6.3.1.aar/b21dbf68e3179eda0056096538f6ec91/res/drawable-anydpi-v21/ic_film.xml"
+    }
+]

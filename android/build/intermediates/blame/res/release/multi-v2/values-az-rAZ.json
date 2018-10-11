@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/values-az-rAZ/values-az-rAZ.xml",
+            "map": [
+                {
+                    "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/values-az-rAZ/values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,136,209,276,341,417,501,582,659,733,805",
+                        "endColumns": "80,72,66,64,75,83,80,76,73,71,68",
+                        "endOffsets": "131,204,271,336,412,496,577,654,728,800,869"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-az-rAZ/values-az-rAZ.xml",
+            "map": [
+                {
+                    "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.0.aar/1ef549469b179522b8170f5c7929bc78/res/values-az-rAZ/values-az-rAZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,136,209,276,341,417,501,582,659,733,805",
+                        "endColumns": "80,72,66,64,75,83,80,76,73,71,68",
+                        "endOffsets": "131,204,271,336,412,496,577,654,728,800,869"
+                    }
+                }
+            ]
+        }
+    ]
+}

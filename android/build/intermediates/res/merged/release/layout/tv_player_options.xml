@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/playerOptions"
+    android:visibility="gone"
+    style="@style/BrightcovePlayerOptions">
+
+    <TextView
+        android:id="@+id/audioTracksTitle"
+        style="@style/BrightcovePlayerOptionsTitle"
+        android:visibility="gone"
+        android:text="@string/brightcove_controls_audio_tracks_tv"/>
+
+    <RadioGroup
+        android:id="@+id/audioTracksGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/captionsTitle"
+        style="@style/BrightcovePlayerOptionsTitle"
+        android:visibility="gone"
+        android:text="@string/brightcove_controls_captions_tv"/>
+
+    <RadioGroup
+        android:id="@+id/captionsGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+</LinearLayout>

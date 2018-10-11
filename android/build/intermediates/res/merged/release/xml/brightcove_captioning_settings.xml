@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:fragment="com.brightcove.player.captioning.BrightcoveCaptionPropertiesFragment"
+    android:key="captioning_preference_screen"
+    android:title="@string/brightcove_captioning_title"
+    tools:ignore="UnusedAttribute">
+
+    <SwitchPreference
+        android:key="captions_master_switch"
+        android:title="@string/brightcove_captioning_title"
+        android:persistent="true"/>
+
+    <PreferenceCategory
+        android:key="standard"
+        android:title="@string/captioning_standard_options_title">
+
+        <com.brightcove.player.captioning.preferences.ListPreferenceWithSummary
+            android:entries="@array/captioning_font_size_selector_titles"
+            android:entryValues="@array/captioning_font_size_selector_values"
+            android:key="captioning_font_size"
+            android:persistent="true"
+            android:defaultValue="1.0"
+            android:summary="%s"
+            android:title="@string/captioning_text_size"/>
+
+        <com.brightcove.player.captioning.preferences.PresetPreference
+            android:key="captioning_preset"
+            android:persistent="true"
+            android:defaultValue="0"
+            android:title="@string/captioning_preset"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="custom"
+        android:title="@string/captioning_custom_options_title">
+
+        <com.brightcove.player.captioning.preferences.ListPreferenceWithSummary
+            android:entries="@array/captioning_typeface_selector_titles"
+            android:entryValues="@array/captioning_typeface_selector_values"
+            android:key="captioning_typeface"
+            android:persistent="true"
+            android:defaultValue="sans-serif"
+            android:summary="%s"
+            android:title="@string/captioning_typeface"/>
+
+        <com.brightcove.player.captioning.preferences.ColorPreference
+            android:key="captioning_foreground_color"
+            android:persistent="true"
+            android:defaultValue="@android:color/white"
+            android:title="@string/captioning_foreground_color"/>
+
+        <com.brightcove.player.captioning.preferences.ColorPreference
+            android:key="captioning_foreground_opacity"
+            android:persistent="true"
+            android:defaultValue="@android:color/white"
+            android:title="@string/captioning_foreground_opacity"/>
+
+        <com.brightcove.player.captioning.preferences.EdgeTypePreference
+            android:key="captioning_edge_type"
+            android:persistent="true"
+            android:defaultValue="0"
+            android:title="@string/captioning_edge_type"/>
+
+        <com.brightcove.player.captioning.preferences.ColorPreference
+            android:dependency="captioning_edge_type"
+            android:key="captioning_edge_color"
+            android:defaultValue="@android:color/black"
+            android:persistent="true"
+            android:title="@string/captioning_edge_color"/>
+
+        <com.brightcove.player.captioning.preferences.ColorPreference
+            android:key="captioning_background_color"
+            android:persistent="true"
+            android:defaultValue="@android:color/black"
+            android:title="@string/captioning_background_color"/>
+
+        <com.brightcove.player.captioning.preferences.ColorPreference
+            android:dependency="captioning_background_color"
+            android:key="captioning_background_opacity"
+            android:defaultValue="@android:color/white"
+            android:persistent="true"
+            android:title="@string/captioning_background_opacity"/>
+
+        <com.brightcove.player.captioning.preferences.ColorPreference
+            android:key="captioning_window_color"
+            android:persistent="true"
+            android:defaultValue="@android:color/transparent"
+            android:title="@string/captioning_window_color"/>
+
+        <com.brightcove.player.captioning.preferences.ColorPreference
+            android:dependency="captioning_window_color"
+            android:key="captioning_window_opacity"
+            android:defaultValue="@android:color/white"
+            android:persistent="true"
+            android:title="@string/captioning_window_opacity"/>
+    </PreferenceCategory>
+</PreferenceScreen>

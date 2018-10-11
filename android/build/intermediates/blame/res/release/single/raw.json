@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/raw/video_vertex_shader.glsl",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/android-sdk-6.3.1.aar/b21dbf68e3179eda0056096538f6ec91/res/raw/video_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/alex/Development/Joi Polloi/Great British Bake-Off/React/GBBO/node_modules/rn-brightcove-player-ui/android/build/intermediates/res/merged/release/raw/video_fragment_shader.glsl",
+        "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/android-sdk-6.3.1.aar/b21dbf68e3179eda0056096538f6ec91/res/raw/video_fragment_shader.glsl"
+    }
+]
